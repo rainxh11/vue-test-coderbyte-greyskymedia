@@ -1,7 +1,12 @@
-# Vue 3 + Vite
+# GreySkyMedia Vue.js test project
+this is a replica vue.js project following the provided figma design:
+[https://www.figma.com/file/WsYziGEHRaKAIwqx2Hbd4A/VUE-Test?node-id=1%3A1852](https://www.figma.com/file/WsYziGEHRaKAIwqx2Hbd4A/VUE-Test?node-id=1%3A1852)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## This project was made using:  `Vue 3 + Vite + Tailwindcss`
+to start:
+```powershell
+npm run dev
+```
 
-## Recommended IDE Setup
+https://user-images.githubusercontent.com/35665161/197915010-bdf96820-4fd3-4dc8-ab1b-47fc0ef05d7d.mp4
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
